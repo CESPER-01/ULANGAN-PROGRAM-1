@@ -1,1 +1,0 @@
-Isi lah data name, city, age, number dengan mengambil data pada API : https://randomuser.me/api

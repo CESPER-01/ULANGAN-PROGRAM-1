@@ -4,7 +4,7 @@
  * 
  */
 
-const gender = "M"
+let gender = "F"
 
 if (gender == "M") {
     gender = "Laki-Laki"
@@ -17,5 +17,6 @@ if (gender == "M") {
 console.log(gender);
 
 
-//Jawblah menggunakan comment kenapa kode diatas tidak mengeluarkan output yang diharapkan
+
+//Jawblah menggunakan comment kenapa kode diatas tidak mengeluarkan output yang diharapkan;
 

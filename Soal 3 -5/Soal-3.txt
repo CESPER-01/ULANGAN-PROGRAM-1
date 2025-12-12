@@ -1,2 +1,0 @@
-1. Buat lah sebuah file React dengan nama masing-masin
-2. Buatlah Header dan footer pada website tersebut
